@@ -1,4 +1,4 @@
-# Python-Practice-Assignment-Loops-Lists-User-Input
+# Assignment 1
 # Instructions Complete all questions using Python. 
 Write clean and readable code. 
 Add comments wherever necessary. 
