@@ -23,4 +23,17 @@ students = ["Sai", "Ananya", "Rahul", "Priyank", "Virama"]
 for student in students:
     print(f"{student}: Welcome to the Glow logics Internship Program.")
 
+# Question 3: Digital Greeting System
+. # Creating a list of 10 student names
+students_ list = ["Sai", "Ananya", "Rahul", "Priyank", "Virama", "Kiran", "Sneha", "Amit", "Pooja", "Arjun"]
+
+. # Generating a personalized greeting for each student
+for name in students_ list:
+    print(f "Dear {name},")
+    print("We are excited to have you as part of the internship.")
+    print("Regards,\n Glow logics")
+    print("-" * 30)  # Separator line between greetings
+
+
+
 
